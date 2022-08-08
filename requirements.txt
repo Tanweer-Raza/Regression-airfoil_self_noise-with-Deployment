@@ -2,7 +2,7 @@ flask
 numpy
 pandas
 sklearn
-gunicorn  # for interaction with the web  server
+gunicorn
 Jinja2
 werkzeug
 scipy
