@@ -1,0 +1,11 @@
+flask
+numpy
+pandas
+sklearn
+gunicorn  # for interaction with the web  server
+Jinja2
+werkzeug
+scipy
+scikit-learn 
+matplotlib
+pickle 
